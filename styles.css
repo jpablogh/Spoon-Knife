@@ -28,5 +28,6 @@ body {
   background-color:white;
   z-index:0;
   display:block;
+  border-bottom:none;
   top:inherit;
 }
